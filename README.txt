@@ -1,1 +1,1 @@
-- [DEMO] (https://github.com/SlavaSemenyaka/realestate_project/)
+- [DEMO] (https://SlavaSemenyaka.github.io/realestate_project/)
